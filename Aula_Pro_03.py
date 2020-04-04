@@ -1,4 +1,4 @@
-# Tipo Booleano
+# Tipo  Booleano
 
 print(type(True))
 print(type(False))
