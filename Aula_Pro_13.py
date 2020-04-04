@@ -21,5 +21,9 @@ def ola(nome, sobrenome='Padrão'):
 print(ola('Mauricio'))
 
 def ola(nome, sobrenome, idade=47):
-    return f'Olaaa!! {nome} com:{idade}anos e {sobrenome}'
-print('Mauricio')
+    return f'Olaaa!! {nome} com:{idade}anos sobrenome {sobrenome}'
+print(ola('Rita','Todesco'))
+
+def ola(nome, sobrenome, idade=47):
+    return f'Olaaa!! {nome} {sobrenome} com: {idade}anos '
+print(ola('Olivia','Martins'))
