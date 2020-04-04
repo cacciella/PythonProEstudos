@@ -3,8 +3,9 @@
 def soma(*args):
     print(args)
     print(type(args))
-print(soma(1,4))
+print(soma(10,4))
 
+print('-'*20)
 def soma(*args):
     aux = 0
     for valor in args:
@@ -16,7 +17,7 @@ print('-'*20)
 def f(**kwargs):
     print(kwargs)
     print(type(kwargs))
-print(f(nome = 'Mauricio', sobrenome = 'Fernandes'))
+print(f(nome = 'Kleverson', sobrenome = 'Karlos'))
 
 print('-'*20)
 args = (2,4,10)
@@ -27,5 +28,6 @@ def f(*args, **kwargs):
 print(f())
 print(f(1,3, nome='Mauricio'))
 print(f(args, kwargs))
+
 print(' -- Desempacotando -- ')
 print(f(*args, **kwargs))
