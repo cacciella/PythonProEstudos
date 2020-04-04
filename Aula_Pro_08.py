@@ -1,4 +1,4 @@
-# Acesso, Tamanho e Fatiamento
+# Acesso, Tamanho - len e Fatiamento
 
 nome = 'Mauricio'
 print(nome[0])
