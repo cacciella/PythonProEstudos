@@ -14,7 +14,7 @@ print(type(5/2))
 # exponencial
 print(2**3)
 
-# Melhor leitura de numeros grandes
+#  Melhor leitura de numeros grandes
 print(1_000_000)
 
 # transforma um numero inteiro em float ou vice versa
