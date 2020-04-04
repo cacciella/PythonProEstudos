@@ -1,4 +1,4 @@
-#  ver aula 15 e 16
+#  ver aula 15 e 16   importar pacotes
 
 " Modulo que contém operações matemáticas "
 

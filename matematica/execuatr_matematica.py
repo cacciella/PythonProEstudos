@@ -1,4 +1,4 @@
-#  ver aula 15 e 16
+#  ver aula 15 e 16    importar pacotes
 
 import matematica.mat
 print(matematica.mat.soma(4, 5))
