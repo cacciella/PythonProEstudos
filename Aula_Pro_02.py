@@ -1,19 +1,17 @@
-# Operações aritméticas
+# Variável e Atribuição
 
-# soma + subtração - multiplicação * e divisão /
-# potencia **  divisão inteira //  resto da divisão %  raiz quadrada n**(1/2) raiz ao cubo n**(1/3)
+n = 12
+print(n)
+print(type(n))
 
-# ordem de precedencia:  1o () , 2o **,  3o * ,/, //, % ,  4o  + e -
+print(n + 2)
+print((n * 2)+ n)
+resultado = (n * 2)+ n
+print(resultado)
 
-print('-=' * 40)
+# Variáveis
+n += 8
+print(n)
 
-nome = str( input('Qual é o seu nome? '))
-print('prazer em te conhecer {}'.format(nome))
-print('prazer em te conhecer {:>20}'.format(nome))
-print('prazer em te conhecer {:<20}'.format(nome))
-print('prazer em te conhecer {:^20}'.format(nome))
-print('prazer em te conhecer {:=^20}'.format(nome))
-
-print(pow(4,2))
-
-print(4 ** 2)
+n *= 2
+print(n)

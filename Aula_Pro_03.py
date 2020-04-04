@@ -32,4 +32,3 @@ n = 6
 print(1< n and n < 5)
 print(' outro modo ')
 print(1< n < 5)
-
