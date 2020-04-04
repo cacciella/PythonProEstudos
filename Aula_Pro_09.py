@@ -1,4 +1,4 @@
-# While e For
+#  While e For
 
 nome = 'Mauricio'
 i = 0
@@ -13,11 +13,11 @@ for v in nome2:
     print(v)
 
 print(' 03 -=  For ' *8)
-
+# numero de elementos  -  len
 for i in range(len(nome2)):
     print(i, nome2[i])
 
-print(' 04 -=  For ' *8)
 
+print(' 04 -=  For ' *8)
 for i, v in enumerate(nome2):
     print(i, v)
