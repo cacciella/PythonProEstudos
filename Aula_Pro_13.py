@@ -1,9 +1,14 @@
-# Parâmetros de Função
+#  Parâmetros de Função
 
 def ola(nome):
     return f'Olá!! {nome}'   # f string
 ola('Mauricio')
 print(ola('Mauricio'))
+
+def oOpa(nome):
+    return f'Olaaaa{nome}'
+print(oOpa(' Eduardo'))
+
 
 def ola(nome, sobrenome):
     return f'Olá!!! {nome} {sobrenome}'
