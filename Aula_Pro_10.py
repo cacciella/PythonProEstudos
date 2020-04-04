@@ -1,4 +1,4 @@
-# Dicionários {}  /Mapas
+#  Dicionários {}  /Mapas
 
 linguas = {'br':'portugues','eua':'ingles'}
 print(type(linguas))
