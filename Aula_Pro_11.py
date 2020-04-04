@@ -1,4 +1,4 @@
-# Iteração em Dicionário
+#  Iteração em Dicionário
 
 linguas = {'br': 'portugues' ,'eua':'ingles','esp':'espanhol'}
 for chave in linguas:
