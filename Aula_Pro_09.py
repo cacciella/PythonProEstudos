@@ -1,4 +1,4 @@
-#  While e For
+#   While e For
 
 nome = 'Mauricio'
 i = 0
