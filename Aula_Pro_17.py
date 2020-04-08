@@ -19,7 +19,7 @@ if __name__ == '__main__':
 
 # para uso de cometários
 
-# para a bilitar ou desabilitar
+# para abilitar ou desabilitar
 # um bloco do codigo,  digitar:
 # Control e /
 
