@@ -1,7 +1,6 @@
 # Contagem de Caracteres com Dicionário
 # Nesse tópico será resolvido o clássico problema de entrevistas de emprego de contagem de caracteres.
 
-
 def contar_caracteres(s):
     """ Função que conta os caracteres de uma string
     Ex:
@@ -34,4 +33,3 @@ if __name__ == '__main__':
     print(contar_caracteres('renzo'))
     print()
     print(contar_caracteres('banana'))
-
