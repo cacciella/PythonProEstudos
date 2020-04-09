@@ -37,6 +37,11 @@ print(lista)
 
 # ou para inserir mais , tambem pode ser...
 print(lista+[13, 14, 16])
+
+lista2 = list(range(30, 40))
+print((lista2 + lista))
+print(sorted(lista2 + lista))
+
 print([1, 3]*3)
 
 # separando
