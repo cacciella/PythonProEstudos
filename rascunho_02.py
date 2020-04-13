@@ -1,6 +1,5 @@
 import rascunho
 
-nome2 = 'Mau2 '
-sobre2 = 'ricio2'
-print(rascunho.s(nome2,sobre2))
-
+a = float(8.9)
+b = float(100.2)
+print(rascunho.s(a, b))
