@@ -1,10 +1,12 @@
-# testando  commit
+# rascunho
 
-nome = 'Mau'
-sobre = 'ricio'
-
-def s (nome, sobre):
-    return nome + sobre
+def s(a, b):
+    return(a + b)
+def s2(a, b):
+    return(a * b)
 
 if __name__ == '__main__':
-    print(s(nome, sobre))
+    print(s(1, 3))
+    a = int(input('Valor de a: '))
+    b = int(input('Valor de b: '))
+    print(s2(a, b))
