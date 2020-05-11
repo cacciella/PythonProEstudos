@@ -48,7 +48,7 @@ for i in range(10):
     lst.append(str(i))
 print(lst)
 
-#          Agora uso este metodo:
+#         Agora uso este metodo:
 print([str(i) for i in range(10)])
 
 print([int(i) for i in range(10)])
