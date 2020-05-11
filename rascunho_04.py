@@ -52,3 +52,5 @@ print(lst)
 print([str(i) for i in range(10)])
 
 print([int(i) for i in range(10)])
+
+[str() for _ in range(3)]   # variavel que não esta utilizando, usa o caracter '_' underline
