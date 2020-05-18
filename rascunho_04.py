@@ -12,8 +12,6 @@
 #     print()
 
 
-
-
 print()
 print()
 # Contagem de Caracteres com Lista
