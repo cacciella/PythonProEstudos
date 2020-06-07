@@ -16,9 +16,9 @@ print()
 print()
 # Contagem de Caracteres com Lista
 
-# n = 'Nome'
-# for i in range(len(n)):
-#     print(f'{i} : {n[i]}')
+n = 'Nome'
+for i in range(len(n)):
+    print(f'{i} : {n[i]}')
 
 print()
 print()
