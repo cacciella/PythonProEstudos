@@ -1,10 +1,10 @@
-#  Lista e Range
+#  Lista  e  Range
 
 print([1, 2, 3])
 print(type([]))
-lista = list(range(10))
+lista = list(range(21))
 print(lista)
-lista = list(range(1, 10))
+lista = list(range(1, 16))
 print(lista)
 
 lista = list(range(2, 10, 2))  # exemplo: pulando de 2 em 2
