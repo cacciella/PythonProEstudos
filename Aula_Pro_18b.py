@@ -23,3 +23,21 @@ if __name__ == '__main__':
     print(contar_caracteres('renzo'))
     print()
     print(contar_caracteres('banana'))
+
+
+print()
+print()
+
+def contar_carac(s):
+    result = {}
+    for caract in s:
+        result[caract] = result.get(caract, 0) + 1
+    return result
+
+if __name__ == '__main__':
+    print(contar_carac('Mauricio'))
+    print(contar_carac('Maaaaaaaaaaau'))
+
+
+
+

@@ -8,7 +8,7 @@ def contar_carter(s):
     return resultado
 
 if __name__ == '__main__':
-    print(contar_carter('Nooviinhoo'))
+    print(contar_carter('Noooooooviinhoo'))
     print()
 
 
@@ -21,10 +21,11 @@ n = 'Nome'
 for i in range(len(n)):
     print(f'{i} : {n[i]}')
 
-print()
-print()
+print('- - - - - - - - - - - - - - - - - - -')
+print(' - - - - - - - - - - - - - - - - - -')
 
 nome3 = 'Novinho'
 for i in range(len(nome3)):
     print(f'{i} recebe {nome3[i]}')
+
 
