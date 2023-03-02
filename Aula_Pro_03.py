@@ -26,7 +26,7 @@ print(6 == 6)
 print(7 == 6)
 print((' diferente !=    ') *3)
 print(6 != 6)
-print(6 != 86)
+print(6 != 8)
 print('   perguntar se está em um intervalo    ')
 n = 6
 print(1< n and n < 5)
