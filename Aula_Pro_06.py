@@ -7,10 +7,12 @@ print(lista)
 lista = list(range(1, 26))
 print(lista)
 
+
 lista = list(range(2, 10, 2))  # exemplo: pulando de 2 em 2
 print(lista)
 lista = list(range(10, 2, -2))
 print(lista)
+
 
 print('  -=  ' *10)
 print(dir(lista))
@@ -20,6 +22,7 @@ print('   -=  ' *5)
 lista = list(range(10))
 print(lista.sort())
 print(lista)
+
 
 print('   -=  ' *5)
 # inserir um elemento na lista - append
@@ -45,7 +48,7 @@ print(sorted(lista2 + lista))
 print([1, 3]*3)
 
 # separando
-print('Estamos todos no mesmo barco - Paython Pro'.split())
+print('Estamos todos no mesmo barco - Python Pro'.split())
 
 # adicionando
 # print('Nome'.join(lista))
