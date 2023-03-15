@@ -6,6 +6,5 @@ if idade <= 16:
 elif idade >= 60:
     print('Acho que vc não vai gostar deste filme ')
 else:
-    print('Certo, está lberado ........ pode ir ao Cinema')
-
+    print('Certo, está liberado ..... pode ir ao Cinema')
 print(dir('\n'))
