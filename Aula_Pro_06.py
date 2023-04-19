@@ -4,7 +4,7 @@ print([1, 2, 3])
 print(type([]))
 lista = list(range(21))
 print(lista)
-lista = list(range(1, 26))
+lista = list(range(1, 26)) # gera uma lista de 1 a 26
 print(lista)
 
 
