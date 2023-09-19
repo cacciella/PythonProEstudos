@@ -7,19 +7,19 @@ print(type((6,)))
 print(dir(tpl))
 print(tuple(range(6)))
 
-print(' -== ' *3)
+print(' -=-= ' *3)
 print()
 registro = ('Mauricio', 47)
-registro2 = ('Eduardo', 13)
+registro2 = ('Elvis', 13)
 print(registro)
 print(registro2)
 print(registro + registro2)
 
-# desempacotamento do registro
+#  desempacotamento do registro
 nome, idade = registro
 print(nome)
 print(idade)
 
-# ID - verificar a identidade de um objeto
+#  ID - verificar a identidade de um objeto
 print(id(registro))
 print(id(registro2))
