@@ -23,3 +23,5 @@ if __name__ == '__main__':
     print(contar_caracteres('renzo'))
     print()
     print(contar_caracteres('banana'))
+    print()
+    print(contar_caracteres('google'))
