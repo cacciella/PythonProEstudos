@@ -11,6 +11,7 @@ def contar_caracteres(s):
     :param s: string a ser contada
 
     """
+    
     resultado = {}
 
     for caracter in s:
