@@ -25,4 +25,4 @@ if __name__ == '__main__':
     print()
     print(contar_caracteres('banana'))
     print()
-    print(contar_caracteres('google maps'))
+    print(contar_caracteres('google'))
